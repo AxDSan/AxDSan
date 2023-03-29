@@ -1,6 +1,8 @@
 ## Hello World!
 
-I am a software developer who likes to create and share useful tools for Windows users. One of my projects is KeyPose¹, an alternative to Mouseposé that highlights keyboard and mouse events on the screen. You can download the latest version of KeyPose from here². I also use GitHub Gist to store and share snippets of code that I find interesting or helpful³. Feel free to check out my repositories and gists and let me know what you think.
+I am a software developer and a reverse engineer, who likes to create and share useful tools for Windows users. One of my projects is KeyPose¹, an alternative to Mouseposé that highlights keyboard and mouse events on the screen. You can download the latest version of KeyPose from here². I also use GitHub Gist to store and share snippets of code that I find interesting or helpful³. and love doing reverse engineering development projects...
+
+Feel free to check out my repositories and gists and let me know what you think.
 
 (1) AxDSan/KeyPose: An Alternative to 'Mouseposé' for Windows, - GitHub. https://github.com/AxDSan/KeyPose
 
